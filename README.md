@@ -8,3 +8,11 @@ Only two endpoints are implemented :
 
 - `/quotes` : Get All Quotes
 - `/quotes/random` : Get One Random Quote
+
+## Usage 
+
+Run the development environment by executing
+
+```bash
+npm run start:dev
+```
